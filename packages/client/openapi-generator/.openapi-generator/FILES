@@ -1,0 +1,12 @@
+.gitignore
+.npmignore
+api.ts
+api/cats-api.ts
+api/default-api.ts
+base.ts
+common.ts
+configuration.ts
+dto/cat.ts
+dto/index.ts
+git_push.sh
+index.ts
